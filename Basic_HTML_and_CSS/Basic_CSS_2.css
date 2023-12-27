@@ -1,0 +1,10 @@
+p {
+  color: red;
+  background: yellow;
+  font-size: medium;
+  text-align: center;
+}
+div1 {
+    text-shadow: #00ffff 5px 0 10px;
+    color: black;
+}
